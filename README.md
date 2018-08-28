@@ -11,4 +11,4 @@ Apart from following along with the tutorial, I also completed the additional ch
 5. When someone wins, highlight the three squares that caused the win.
 6. When no one wins, display a message about the result being a draw.
 
-It would be helpful to have some peer review on the code as it's probably rife with antipattern, I'm not aware of.
+It would be helpful to have some peer review on the code as it's probably rife with antipattern, that I'm not aware of.
